@@ -4,7 +4,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3plM3VqOGo0eDY4aTlhZmJlYWtlMXYwaHY0aG51eTVtb2c5c2MzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iAKXyzgLVtKsU/giphy.gif" width="500" alt="Cybersecurity GIF"/>
 </p>
 
-<h3 align="center">🚀 Cybersecurity Graduate Student | SOC Analyst adn Devops Enthusiast | Cloud Security |</h3>
+<h3 align="center">🚀 Cybersecurity Graduate Student | SOC Analyst and Devops Enthusiast | Cloud Security |</h3>
 
 ---
 
